@@ -10,7 +10,8 @@ Javascript
 
 
 Installation:
-For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/arein1989/HM/ 
+For at køre dette projekt lokalt, skal du følge disse trin: git clone https://github.com/arein1989/HMI/
+
 Naviger til mappen: 
 cd  arein1989/HM/  Clone repository 
 
